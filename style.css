@@ -1,0 +1,31 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+  footer {
+    background-color: #eee;
+    padding: 25px;
+  }
+  .navbar{
+    justify-content: center;
+    background-color:black ;
+    overflow: hidden;
+  }
+  .navbar a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    font-size: 17px;
+  }
+  .navbar a:hover{
+    background-color: #5cdb95;
+    color: black;
+  }
+  .navbar a.active{
+    background-color: #BA1200;
+    color: white;
+  }
+  .jumbotron{
+background-color: #5cdb95;
+  }
